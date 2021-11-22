@@ -6,4 +6,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rei-Suzuki&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+
 my personal repository
