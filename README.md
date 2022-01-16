@@ -294,10 +294,9 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=Rei-Suzuki1729&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   <img src="./profile-3d-contrib/profile-night-rainbow.svg">
 </p>
-<details>
- <summary><b>More Details</b></sumary>
+
+ <h5>More Details</h5>
  <img src="./github-metrics.svg">
-</details>
 
 
 
