@@ -37,13 +37,13 @@
     <a href="" title="Instagram Profile"><img width="22" src=""> Instagram</a>
   </code>
   <code>
-    <a href="" title="Facebook Profile"> <img width="22" src=""> </a>
+    <a href="" title="Facebook Profile"> <img width="22" src=""> Facebook</a>
   </code>
   <code>
-    <a href="" title="Twitter Profile"> <img width="22" src=""> </a>
+    <a href="" title="Twitter Profile"> <img width="22" src=""> Twitter</a>
   </code>
   <code>
-    <a href="" title="Discord Profile"> <img width="22" src=""> </a>
+    <a href="" title="Discord Profile"> <img width="22" src=""> Discord</a>
   </code>
 </h5>
 <hr>
