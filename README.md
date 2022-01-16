@@ -43,7 +43,7 @@
     <a href="" title="Twitter Profile"> <img width="22" src=""> </a>
   </code>
   <code>
-    <a href="" title="Discord Profile"> <img width="22" src="> </a>
+    <a href="" title="Discord Profile"> <img width="22" src=""> </a>
   </code>
 </h5>
 <hr>
