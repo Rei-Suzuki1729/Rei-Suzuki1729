@@ -1,13 +1,22 @@
-<p align="right"><img src="https://komarev.com/ghpvc/?username=Rei-Suzuki1729" /><img src="https://visitor-badge.laobi.icu/badge?page_id=Rei-Suzuki1729"></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header" />
+
+
+<div>
+ <p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Rei-Suzuki1729" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rei-Suzuki1729">
+ </p>
+</div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I'm+Rei+Suzuki....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<p align="center">
+
+<h2 align="center">
   <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a>
-</p>
+</h2>
 
 <h3 align="center">A passionate student from Japan
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
@@ -15,7 +24,7 @@
 <br>
 
 <h3 align="left">Connect with me:</h3>
-<h5 align="left"> 
+<h5 align="center"> 
  <!-- <a href="https://codepen.io/ffff" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ffff" height="30" width="40" />
  </a> -->
@@ -50,6 +59,7 @@
 <hr>
 
 <h2 align="center">🔥 Learning Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
 <h3 align="center">Programming Languages</h3>
 <p align="left">
    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -257,7 +267,6 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rei-suzuki1729&theme=dark" alt="rei-suzuki1729" />
 
-<hr>
 <!--
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <div width="100%" align="center">
@@ -283,5 +292,8 @@
   <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 !-->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer" />
+
 
 
