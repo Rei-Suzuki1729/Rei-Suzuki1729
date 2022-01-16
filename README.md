@@ -266,7 +266,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Rei-Suzuki&theme=juicyfresh&column=3&margin-w=15&margin-h=15"/>
  </a>
 </p>
- <p align="center">
+ <p align="left">
  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" title="summary-card-output">
  <img src="https://raw.githubusercontent.com/Rei-Suzuki1729/Rei-Suzuki1729/main/profile-summary-card-output/monokai/3-stats.svg"/>
  </a>
