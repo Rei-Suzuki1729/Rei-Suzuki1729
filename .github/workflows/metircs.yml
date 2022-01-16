@@ -24,10 +24,9 @@ jobs:
           token: ${{ secrets.ACTION_SECRETS }}
 
           # Options
-          user: formidablae
+          user: Rei-Suzuki1729
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Rome
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
