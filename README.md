@@ -12,25 +12,38 @@
 <h3 align="center">A passionate student from Japan
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
 
+<p align="left"> 
+  <a href="http://qiita.com/Rei1729">
+    <img src="https://qiita-badge.apiapi.app/s/Rei1729/posts.svg" title="My Qiita posts" />My Qiita posts
+  </a>
+  <a href="http://qiita.com/Rei1729">
+    <img src="https://qiita-badge.apiapi.app/s/Rei1729/contributions.svg" title="My Qiita contributions" />My Qiita contributions
+  </a>
+  <a href="http://qiita.com/Rei1729">
+    <img src="https://qiita-badge.apiapi.app/s/Rei1729/followers.svg" title="[My Qiita followers" />My Qiita followers
+  </a>
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <h5 align="center">
   <code>
-    <a href="" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a>
+    <a href="" title="LinkedIn Profile"><img width="22" src=""> LinkedIn</a>
   </code>
   <code>
-    <a href="" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a>
+    <a href="" title="Stack Overflow Profile"><img width="22" src=""> Stack Overflow</a>
   </code>
   <code>
-    <a href="" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a>
+    <a href="" title="Instagram Profile"><img width="22" src=""> Instagram</a>
   </code>
   <code>
-    <a href="" title="Facebook Profile"> <img width="22" src="https://img.shields.io/badge/-Shakib-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/MoShakib.official/"> </a>
+    <a href="" title="Facebook Profile"> <img width="22" src=""> </a>
   </code>
   <code>
-    <a href="" title="Twitter Profile"> <img width="22" src="https://img.shields.io/badge/@Mo__Shakib-%231DA1F2.svg?logo=Twitter&logoColor=white)"> </a>
+    <a href="" title="Twitter Profile"> <img width="22" src=""> </a>
   </code>
   <code>
-    <a href="" title="Discord Profile"> <img width="22" src="https://img.shields.io/badge/-Shakib%231251-40567A?logo=Discord&logoColor=white&link=https://discordapp.com/users/Shakib#1251/"> </a>
+    <a href="" title="Discord Profile"> <img width="22" src="> </a>
   </code>
 </h5>
 <hr>
@@ -154,11 +167,5 @@
   <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 !-->
-# My Qiita posts
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/Rei1729/posts.svg)](http://qiita.com/Rei1729)
-# My Qiita contributions
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/Rei1729/contributions.svg)](http://qiita.com/Rei1729)
-# My Qiita followers
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/Rei1729/followers.svg)](http://qiita.com/Rei1729)
-                
+
 
