@@ -96,25 +96,37 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
   </a> 
 </p>
+<hr>
 
+<h2 align="center">⚡ Stats ⚡</h2>
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rei-Suzuki1729&layout=compact&count_private=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Rei-Suzuki1729&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
-<hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rei-Suzuki&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-[![](https://raw.githubusercontent.com/Rei-Suzuki1729/Rei-Suzuki1729/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Rei-Suzuki1729/Rei-Suzuki1729/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Rei-Suzuki1729/Rei-Suzuki1729/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Rei-Suzuki1729/Rei-Suzuki1729/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Rei-Suzuki1729/Rei-Suzuki1729/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+<p>
+ <a href="https://github.com/ryo-ma/github-profile-trophy" title="trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rei-Suzuki&theme=onedark&column=7"/>
+ </a>
+ <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" title="summary-card-profile">
+    <img src="https://raw.githubusercontent.com/Rei-Suzuki1729/Rei-Suzuki1729/main/profile-summary-card-output/monokai/0-profile-details.svg"/>
+ </a>
+ <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" title="summary-card-repos">
+  <img src="https://raw.githubusercontent.com/Rei-Suzuki1729/Rei-Suzuki1729/main/profile-summary-card-output/monokai/1-repos-per-language.svg"/>
+ </a>
+ <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" title="summary-card-commit">
+  <img src="https://raw.githubusercontent.com/Rei-Suzuki1729/Rei-Suzuki1729/main/profile-summary-card-output/monokai/2-most-commit-language.svg"/>
+ </a>
+ <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" title="summary-card-output">
+  <img src="https://raw.githubusercontent.com/Rei-Suzuki1729/Rei-Suzuki1729/main/profile-summary-card-output/monokai/3-stats.svg"/>
+ </a>
+ <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" title="summary-card-output">
+  <img src="https://raw.githubusercontent.com/Rei-Suzuki1729/Rei-Suzuki1729/main/profile-summary-card-output/monokai/4-productive-time.svg"/>
+ </a>
+</p>
+<br>
 <img src="https://activity-graph.herokuapp.com/graph?username=Rei-Suzuki1729&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
 
 <hr>
 <!--
