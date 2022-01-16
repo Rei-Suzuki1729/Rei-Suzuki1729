@@ -14,13 +14,13 @@
 
 <p align="left"> 
   <a href="http://qiita.com/Rei1729">
-    <img src="https://qiita-badge.apiapi.app/s/Rei1729/posts.svg" title="My Qiita posts" />My Qiita posts
+    <img src="https://qiita-badge.apiapi.app/s/Rei1729/posts.svg" title="My Qiita posts" />
   </a>
   <a href="http://qiita.com/Rei1729">
-    <img src="https://qiita-badge.apiapi.app/s/Rei1729/contributions.svg" title="My Qiita contributions" />My Qiita contributions
+    <img src="https://qiita-badge.apiapi.app/s/Rei1729/contributions.svg" title="My Qiita contributions" />
   </a>
   <a href="http://qiita.com/Rei1729">
-    <img src="https://qiita-badge.apiapi.app/s/Rei1729/followers.svg" title="[My Qiita followers" />My Qiita followers
+    <img src="https://qiita-badge.apiapi.app/s/Rei1729/followers.svg" title="[My Qiita followers" />
   </a>
 </p>
 
