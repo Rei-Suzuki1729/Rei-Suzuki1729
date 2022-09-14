@@ -267,9 +267,6 @@
  </a>
 </p>
  <p align="left">
- <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" title="summary-card-output">
- <img src="https://raw.githubusercontent.com/Rei-Suzuki1729/Rei-Suzuki1729/main/profile-summary-card-output/monokai/3-stats.svg"/>
- </a>
  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" title="summary-card-profile">
     <img src="https://raw.githubusercontent.com/Rei-Suzuki1729/Rei-Suzuki1729/main/profile-summary-card-output/monokai/0-profile-details.svg"/>
  </a>
@@ -279,7 +276,9 @@
  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" title="summary-card-commit">
   <img src="https://raw.githubusercontent.com/Rei-Suzuki1729/Rei-Suzuki1729/main/profile-summary-card-output/monokai/2-most-commit-language.svg"/>
  </a>
-
+ <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" title="summary-card-output">
+ <img src="https://raw.githubusercontent.com/Rei-Suzuki1729/Rei-Suzuki1729/main/profile-summary-card-output/monokai/3-stats.svg"/>
+ </a>
  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" title="summary-card-output">
   <img src="https://raw.githubusercontent.com/Rei-Suzuki1729/Rei-Suzuki1729/main/profile-summary-card-output/monokai/4-productive-time.svg"/>
  </a>
