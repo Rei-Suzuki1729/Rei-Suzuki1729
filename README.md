@@ -263,7 +263,7 @@
 <h2 align="center">⚡ Activity ⚡</h2>
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy" title="trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rei-Suzuki&theme=juicyfresh&column=3&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rei-Suzuki1729&theme=juicyfresh&column=3&margin-w=15&margin-h=15"/>
  </a>
 </p>
  <p align="left">
