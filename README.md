@@ -22,6 +22,8 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
 
 <!--START_SECTION:lapras-card-->
+<a href="https://lapras.com/public/noll6451" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.58&b=3.36&i=3.59&b1=%23004736&b2=%2300bf8f&i1=%23007b5c&i2=%2300bf8f&l=ja" width="400" ></a>  
+Last Updated on 12/19/2022, 1:45:40 AM
 <!--END_SECTION:lapras-card-->
 <br>
 
