@@ -21,6 +21,8 @@
 <h3 align="center">A passionate student from Japan
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
 
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
 <br>
 
 <h3 align="left">Connect with me:</h3>
