@@ -295,7 +295,7 @@
 
 <!--START_SECTION:lapras-card-->
 <a href="https://lapras.com/public/noll6451" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.66&b=3.43&i=3.61&b1=%23004736&b2=%2300bf8f&i1=%23007b5c&i2=%2300bf8f&l=ja" width="400" ></a>  
-Last Updated on 4/30/2023, 1:17:38 AM
+Last Updated on 5/1/2023, 1:16:31 AM
 <!--END_SECTION:lapras-card-->
 
  <h5>More Details</h5>
