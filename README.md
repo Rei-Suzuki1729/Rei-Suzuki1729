@@ -295,7 +295,7 @@
 
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/noll6451" target="_blank" rel="noopener noreferrer"><img alt="noll6451のLAPRASでのスコアは次の通りです: エンジニアリング: 3.73 / 5.0, ビジネス: 3.43 / 5.0, インフルエンス: 3.68 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.73&b=3.43&i=3.68&b1=%23004736&b2=%2300bf8f&i1=%23007b5c&i2=%2300bf8f&l=ja" width="400" ></a>  
-Last Updated on 8/9/2023, 1:13:37 AM</p>
+Last Updated on 8/10/2023, 1:14:02 AM</p>
 <!--END_SECTION:lapras-card-->
 
  <h5>More Details</h5>
