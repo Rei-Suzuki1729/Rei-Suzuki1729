@@ -289,7 +289,6 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rei-suzuki1729&theme=dark" alt="rei-suzuki1729" />
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=Rei-Suzuki1729&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   <img src="./profile-3d-contrib/profile-night-rainbow.svg">
 </p>
 
